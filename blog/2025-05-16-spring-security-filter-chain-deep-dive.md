@@ -2,7 +2,7 @@
 slug: spring-security-filter-chain-deep-dive
 title: Spring Security 필터 체인 문제 해결하기
 authors: polar
-tags: [ Spring Security, Filter Chain, Trouble Shooting, Spring Boot, Java ]
+tags: [spring-security, filter-chain, trouble-shooting, spring-boot, java]
 ---
 
 # Spring Security 필터 체인 문제 해결하기: 필터 순서의 중요성

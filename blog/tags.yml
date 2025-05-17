@@ -1,19 +1,24 @@
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
+trouble-shooting:
+  label: Trouble Shooting
+  permalink: /trouble-shooting
+  description: Trouble Shooting tag description
 
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
+java:
+  label: Java
+  permalink: /java
+  description: Java tag description
 
-docusaurus:
-  label: Docusaurus
-  permalink: /docusaurus
-  description: Docusaurus tag description
+spring-boot:
+  label: Spring Boot
+  permalink: /spring-boot
+  description: Spring Boot tag description
 
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
+spring-security:
+  label: Spring Security
+  permalink: /spring-security
+  description: Spring Security tag description
+
+filter-chain:
+  label: Filter Chain
+  permalink: /filter-chain
+  description: Filter Chain tag description

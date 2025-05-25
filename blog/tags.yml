@@ -22,3 +22,13 @@ filter-chain:
   label: Filter Chain
   permalink: /filter-chain
   description: Filter Chain tag description
+
+c:
+  label: C
+  permalink: /c
+  description: C Language tag
+
+keycloak:
+  label: keycloak
+  permalink: /keycloak
+  description: Keycloak, OAuth2 Server
